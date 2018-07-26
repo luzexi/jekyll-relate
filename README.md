@@ -2,6 +2,8 @@
 
 This is a jekyll relate template code.
 
+Please check relate.html
+
 My blog [Program and life](http://www.luzexi.com)
 
 Looks like bellow image:
