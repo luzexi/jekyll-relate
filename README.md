@@ -6,7 +6,7 @@ My blog [Program and life](http://www.luzexi.com)
 
 Looks like bellow image:
 
-![relate-image](/jekyll-relate)
+![relate-image](/jekyll-relate.png)
 
 The first three line is the newest article in your website.
 
